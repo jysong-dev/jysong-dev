@@ -1,10 +1,10 @@
 ###### 👋 Hi, I’m @jysong-dev
 ###### 📫 jysong0113@kakao.com
 
-## 👋About Me
+## 😎 About Me
 안녕하세요. 현재 2년차 웹을 개발하고 있는 Java/Spring 백엔드 개발자입니다.
 
-## 💼Work History
+## 💼 Work History
 #### ㅎㄱㄱㄷㄱㅈㅅㅂㅅ(주) | 2020.09 - 현재 재직중
 
 모두의구독(https://modoo.ai/index.do) 이라는 쇼핑 플랫폼을 <strong>Spring Framework, Apache Tomcat, MariaDB</strong> 기반으로 신규 구축하였으며 구축 이후 해당 플랫폼의 기능 개선 및 유지보수를 담당하고 있다.
@@ -56,10 +56,13 @@
 
 ### 프로토타입 메이커 | 2021.04 ~ 제작중
 
+[사이트 URL](http://ec2-3-36-220-229.ap-northeast-2.compute.amazonaws.com:8083/proto_test)
+[깃헙 URL](https://github.com/jysong-dev/public.boot.gradle.thymeleaf)
+
 **프로젝트 설명**
 
 - 온라인 RPG 게임의 개인 프로필 URL을 생성할 수 있는 사이트
-- **AWS E2C-Server, AWS RDS**로 **Spring Boot + Gradle + Thymeleaf + MariaDB** 기반의 프로젝트를 배포하는 경험을 해보고자 제작을 결정
+- **AWS E2C-Server, AWS RDS**로 **Spring Boot + Gradle + Thymeleaf + MariaDB** 기반의 프로젝트를 배포하는 경험을 해보고자 함
 - Mybatis 기반이나 제한적으로 **JPA**를 사용
 
 ### 헤더 만들기 사이트 | 2021.04 ~ 운영 중
