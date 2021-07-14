@@ -56,7 +56,7 @@
 
 ### 프로토타입 메이커 | 2021.04 ~ 제작중
 
-[사이트 URL](http://ec2-3-36-220-229.ap-northeast-2.compute.amazonaws.com:8083/proto_test)
+[사이트 URL](http://ec2-3-36-220-229.ap-northeast-2.compute.amazonaws.com:8083/proto_test)  
 [깃헙 URL](https://github.com/jysong-dev/public.boot.gradle.thymeleaf)
 
 **프로젝트 설명**
