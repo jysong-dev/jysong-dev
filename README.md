@@ -57,8 +57,8 @@
 **프로젝트 설명**
 
 - 온라인 RPG 게임의 개인 프로필 URL을 생성할 수 있는 사이트
-- AWS로 Spring Boot + Gradle + Thymeleaf 기반의 프로젝트를 배포하는 경험을 할 수 있었음
-- Mybatis 기반이나 제한적으로 JPA를 사용
+- **AWS E2C-Server, AWS RDS**로 **Spring Boot + Gradle + Thymeleaf + MariaDB** 기반의 프로젝트를 배포하는 경험을 해보고자 제작을 결정
+- Mybatis 기반이나 제한적으로 **JPA**를 사용
 
 ### 헤더 만들기 사이트 | 2021.04 ~ 운영 중
 
@@ -68,5 +68,14 @@
 **프로젝트 설명**
 
 - 트위터 사용자를 대상으로 트위터 계정 헤더를 꾸밀 수 있도록 원하는 사진과 텍스트, 그리고 간단한 서식을 적용하여 이미지를 다운로드할 수 있는 단일 페이지 어플리케이션
+> <img src="https://user-images.githubusercontent.com/71686630/125559580-c287f9a9-7d4c-4bbd-aa99-3b2340368c24.jpg" width="300px">
+> <img src="https://user-images.githubusercontent.com/71686630/125559589-c63ee6f6-f8f5-4f0e-a06d-5ff693f10336.png" width="300px">
 - Javascript와 HTML로 SAP(Single Page Application)을 만들어 닷홈 호스팅으로 배포 및 도메인 연결
 - 내가 만든 사이트에 대하여 유저의 의견을 받아서 기능을 개선하는 경험을 할 수 있었음
+> ![image](https://user-images.githubusercontent.com/71686630/125559416-091b5162-5973-45ba-949a-7f513693bcd5.png)
+> ![image](https://user-images.githubusercontent.com/71686630/125559458-d98d9006-6763-4caf-8f9b-eb0f6a289785.png)
+- 다른 프로젝트의 서버 url을 호출하여 접속 로그를 수집해 일별 방문자수, 브라우저 사용률 등을 알아보았음
+> ![image](https://user-images.githubusercontent.com/71686630/125559230-af1bfb0a-a169-473c-be8e-ab9eb0bf8d87.png)
+> ![image](https://user-images.githubusercontent.com/71686630/125559278-e2e5106f-6e8f-4270-984c-16240da33b4a.png)
+
+
