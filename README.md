@@ -9,7 +9,7 @@
 
 모두의구독(https://modoo.ai/index.do) 이라는 쇼핑 플랫폼을 <strong>Spring Framework, Apache Tomcat, MariaDB</strong> 기반으로 신규 구축하였으며 구축 이후 해당 플랫폼의 기능 개선 및 유지보수를 담당하고 있다.
 
-![image](https://user-images.githubusercontent.com/71686630/125563825-7b39ae86-e28d-4c05-b4e2-311038a8710f.png)
+<img src="https://user-images.githubusercontent.com/71686630/125563825-7b39ae86-e28d-4c05-b4e2-311038a8710f.png" href="https://user-images.githubusercontent.com/71686630/125563825-7b39ae86-e28d-4c05-b4e2-311038a8710f.png" target="_blank" width="300px">
 
 **Java**
 
