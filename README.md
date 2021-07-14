@@ -75,7 +75,7 @@
 - 트위터 사용자를 대상으로 트위터 계정 헤더를 꾸밀 수 있도록 원하는 사진과 텍스트, 그리고 간단한 서식을 적용하여 이미지를 다운로드할 수 있는 단일 페이지 어플리케이션
 > <img src="https://user-images.githubusercontent.com/71686630/125559580-c287f9a9-7d4c-4bbd-aa99-3b2340368c24.jpg" width="300px">
 > <img src="https://user-images.githubusercontent.com/71686630/125559589-c63ee6f6-f8f5-4f0e-a06d-5ff693f10336.png" width="300px">
-- Javascript와 HTML로 SAP(Single Page Application)을 만들어 닷홈 호스팅으로 배포 및 도메인 연결
+- **Javascript와 jQuery, HTML**로 SPA(Single Page Application)을 만들어 닷홈 호스팅으로 배포 및 도메인 연결
 - 내가 만든 사이트에 대하여 유저의 의견을 받아서 기능을 개선하는 경험을 할 수 있었음
 > ![image](https://user-images.githubusercontent.com/71686630/125559416-091b5162-5973-45ba-949a-7f513693bcd5.png)
 > ![image](https://user-images.githubusercontent.com/71686630/125559458-d98d9006-6763-4caf-8f9b-eb0f6a289785.png)
